@@ -1,6 +1,13 @@
 # tarot_app
 
-A new Flutter project.
+Home Screen
+![home screen](https://github.com/ZeligLuo/tarot-app-flutter/blob/main/assets/design/home.png)
+
+Daily Tarot Screen
+![home screen](https://github.com/ZeligLuo/tarot-app-flutter/blob/main/assets/design/daily.png)
+
+Result Screen
+![home screen](https://github.com/ZeligLuo/tarot-app-flutter/blob/main/assets/design/result.png)
 
 ## Getting Started
 
