@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "257261136629",
+    "firebase_url": "https://tarot-b38cc-default-rtdb.firebaseio.com",
+    "project_id": "tarot-b38cc",
+    "storage_bucket": "tarot-b38cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257261136629:android:495bff85889f4d2cd773bc",
+        "android_client_info": {
+          "package_name": "com.example.tarot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257261136629-rc0i6j68c40pv01i503edca82lrdu8ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQ6Pchg3o5eyMO1SnGepCMjIgCjloU2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257261136629-rc0i6j68c40pv01i503edca82lrdu8ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "id" : 1,
+    "name" : "Angle",
+    "short_meaning": "Spiritual guidance, Protection from harm",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Angle_Card.jpg"
+  },
+  {
+    "id" : 2,
+    "name" : "Ant",
+    "short_meaning": "Work, Achievement, Success",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Ant_Card.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Apple",
+    "short_meaning": "Temptation will test you",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Apple_Card.jpg"
+  },
+  {
+    "id" : 4,
+    "name" : "Archway",
+    "short_meaning": "New opportunities, Possibilities, Paths opening up",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Archway_Card.jpg"
+  },
+  {
+    "id" : 5,
+    "name" : "Arrow",
+    "short_meaning": "You are on the right path regarding some aspect of your life",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Arrow_Card.jpg"
+  },
+  {
+    "id" : 6,
+    "name" : "Axe",
+    "short_meaning": "Forces working against you",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Axe_Card.jpg"
+  },
+  {
+    "id" : 7,
+    "name" : "Bag",
+    "short_meaning": "Something important like a new job and a raise",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Bag_Card.jpg"
+  },
+  {
+    "id" : 8,
+    "name" : "Barrel",
+    "short_meaning": "You feel something is lacking in your life. Could be love, money, goals",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Barrel_Card.jpg"
+  },
+  {
+    "id" : 9,
+    "name" : "Basket",
+    "short_meaning": "Recognition, Reward for merit",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Basket_Card.jpg"
+  },
+  {
+    "id" : 10,
+    "name" : "Bat",
+    "short_meaning": "Take care enemies are working against you",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Bat_Card.jpg"
+  },
+  {
+    "id" : 11,
+    "name" : "Bear",
+    "short_meaning": "Danger, especially in money matter",
+    "full_meaning": "",
+    "imgPath": "/assets/images/tea_leaf_cards/Bear_Card.jpg"
+  }
+]
